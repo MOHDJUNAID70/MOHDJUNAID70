@@ -67,7 +67,8 @@ My focus is on **Java + Spring Boot** backends that solve real engineering probl
 ![DBMS](https://img.shields.io/badge/DBMS-✓-22C55E?style=flat)
 ![OS](https://img.shields.io/badge/OS-✓-22C55E?style=flat)
 ![CN](https://img.shields.io/badge/Computer_Networks-✓-22C55E?style=flat)
-```
+
+---
 
 ## 🚀 Featured Projects
 
