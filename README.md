@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mohdjunaid04/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mjunaid7082@gmail.com)
-[![micro1](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1777985500-3510b60a-2e9a-4fc8-82a7-eeafd51a777e.jpg)](#)
+[![micro1](https://img.shields.io/badge/Certified-Backend_Developer_(micro1)-22C55E?style=flat)](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1777985500-3510b60a-2e9a-4fc8-82a7-eeafd51a777e.jpg).
 [![LeetCode](https://img.shields.io/badge/LeetCode-250+_Problems-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 </div>
@@ -68,8 +68,6 @@ My focus is on **Java + Spring Boot** backends that solve real engineering probl
 ![OS](https://img.shields.io/badge/OS-✓-22C55E?style=flat)
 ![CN](https://img.shields.io/badge/Computer_Networks-✓-22C55E?style=flat)
 ```
-
----
 
 ## 🚀 Featured Projects
 
