@@ -23,14 +23,15 @@
 
 ## 👋 About Me
 
-I'm a final-year computer science student at **Lovely Professional University** who builds backend systems that are actually deployed — not just on localhost.
+I'm a final-year CS student at **Lovely Professional University** who builds backend systems that are actually deployed — not just on localhost. Currently exploring how to integrate AI/LLM APIs into production Java backends, bridging the gap between AI engines and real-world REST APIs.
 
 My focus is on **Java + Spring Boot** backends that solve real engineering problems: concurrent bookings, stateless auth, rate limiting, clean API design. I care about writing code that works in production, not just in demos.
 
 - 🔭 Currently building: **[Hospital Management System](https://github.com/MOHDJUNAID70/Hospital-Management-System---SpringBoot)** — concurrency-safe booking engine with Redis idempotency
-- 🎯 Looking for: **Backend Developer / Associate SDE / Java Developer** internship or entry-level role
+- 🤖 Exploring: Integrating AI/LLM APIs with Java backends — building middleware layers between AI engines and production REST APIs (see Cheminova AI project)
+- 🎯 Looking for: **Backend Developer / Associate SDE / Java Developer** fresher or entry-level role
 - 🧠 250+ DSA problems solved on LeetCode & GeeksforGeeks
-- 📍 Based in Punjab, India · Available immediately
+- 📍 Based in Uttar Pradesh, India · Available immediately
 
 ---
 
@@ -68,6 +69,10 @@ My focus is on **Java + Spring Boot** backends that solve real engineering probl
 ![OS](https://img.shields.io/badge/OS-✓-22C55E?style=flat)
 ![CN](https://img.shields.io/badge/Computer_Networks-✓-22C55E?style=flat)
 
+**AI & Integrations**
+![REST AI Integration](https://img.shields.io/badge/AI_API_Integration-✓-6DB33F?style=flat)
+![Python Middleware](https://img.shields.io/badge/LLM_Middleware-Java_↔_Python-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
@@ -89,7 +94,7 @@ This system solves it with two layers — Redis idempotency keys catch retries b
 ---
 
 ### 🤖 AI Career Coach — Cheminova AI
-> **Spring Boot · PostgreSQL · Redis · JWT** · [Live](https://cheminova-ai-production.up.railway.app/swagger-ui/index.html) · [Repo](https://github.com/MOHDJUNAID70/Cheminova_AI-Backend)
+> **Spring Boot · PostgreSQL · Redis · JWT** · [Live on Railway](https://cheminova-ai-production.up.railway.app/swagger-ui/index.html) · [Repo](https://github.com/MOHDJUNAID70/Cheminova_AI-Backend)
 
 REST API middleware layer connecting a React frontend to a Python AI engine — handling auth, request forwarding, response mapping, and CORS security.
 
