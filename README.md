@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mohdjunaid04/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mjunaid7082@gmail.com)
-[![micro1](https://img.shields.io/badge/Certified-Backend_Developer_(micro1)-22C55E?style=flat)](#)
+[![micro1](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1777985500-3510b60a-2e9a-4fc8-82a7-eeafd51a777e.jpg)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-250+_Problems-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 </div>
@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm a final-year CS student at **Lovely Professional University** who builds backend systems that are actually deployed — not just on localhost.
+I'm a final-year computer science student at **Lovely Professional University** who builds backend systems that are actually deployed — not just on localhost.
 
 My focus is on **Java + Spring Boot** backends that solve real engineering problems: concurrent bookings, stateless auth, rate limiting, clean API design. I care about writing code that works in production, not just in demos.
 
@@ -36,22 +36,37 @@ My focus is on **Java + Spring Boot** backends that solve real engineering probl
 
 ## 🛠️ Tech Stack
 
-```java
-public class MohdJunaid {
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-    String[] languages    = {"Java", "C++"};
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
 
-    String[] backend      = {"Spring Boot", "Spring Security", "Spring Data JPA",
-                             "Hibernate", "JWT", "REST APIs", "Microservices"};
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-    String[] databases    = {"PostgreSQL", "MySQL", "Redis"};
+**DevOps & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
-    String[] devops       = {"AWS (EC2, RDS, S3, Elastic Beanstalk)", "Docker", "Railway",
-                             "Git", "GitHub", "Postman", "Swagger"};
-
-    String[] fundamentals = {"DSA", "OOP", "DBMS", "System Design",
-                             "OS", "Computer Networks"};
-}
+**CS Fundamentals**
+![DSA](https://img.shields.io/badge/DSA-250%2B_Problems-FFA116?style=flat&logo=leetcode&logoColor=black)
+![System Design](https://img.shields.io/badge/System_Design-✓-22C55E?style=flat)
+![DBMS](https://img.shields.io/badge/DBMS-✓-22C55E?style=flat)
+![OS](https://img.shields.io/badge/OS-✓-22C55E?style=flat)
+![CN](https://img.shields.io/badge/Computer_Networks-✓-22C55E?style=flat)
 ```
 
 ---
